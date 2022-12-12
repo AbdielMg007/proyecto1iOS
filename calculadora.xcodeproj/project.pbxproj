@@ -16,6 +16,7 @@
 		4D851EE2294791DB00D8D58C /* calculadoraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D851EE1294791DB00D8D58C /* calculadoraTests.swift */; };
 		4D851EEC294791DB00D8D58C /* calculadoraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D851EEB294791DB00D8D58C /* calculadoraUITests.swift */; };
 		4D851EEE294791DB00D8D58C /* calculadoraUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D851EED294791DB00D8D58C /* calculadoraUITestsLaunchTests.swift */; };
+		4D851EFB2947F68000D8D58C /* SplashController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D851EFA2947F68000D8D58C /* SplashController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4D851EE7294791DB00D8D58C /* calculadoraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculadoraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D851EEB294791DB00D8D58C /* calculadoraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculadoraUITests.swift; sourceTree = "<group>"; };
 		4D851EED294791DB00D8D58C /* calculadoraUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculadoraUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4D851EFA2947F68000D8D58C /* SplashController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				4D851ECA294791D900D8D58C /* AppDelegate.swift */,
 				4D851ECC294791D900D8D58C /* SceneDelegate.swift */,
+				4D851EFA2947F68000D8D58C /* SplashController.swift */,
 				4D851ECE294791D900D8D58C /* ViewController.swift */,
 				4D851ED0294791D900D8D58C /* Main.storyboard */,
 				4D851ED3294791DB00D8D58C /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D851EFB2947F68000D8D58C /* SplashController.swift in Sources */,
 				4D851ECF294791D900D8D58C /* ViewController.swift in Sources */,
 				4D851ECB294791D900D8D58C /* AppDelegate.swift in Sources */,
 				4D851ECD294791D900D8D58C /* SceneDelegate.swift in Sources */,
